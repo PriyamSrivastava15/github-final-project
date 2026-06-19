@@ -19,5 +19,14 @@ Examples of unacceptable behavior:
 ## Enforcement
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team. All complaints will be reviewed and investigated, and will result in a response deemed necessary and appropriate to the circumstances.
 
+## Enforcement Responsibilities
+Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior...
+
+## Scope
+This Code of Conduct applies within all community spaces...
+
+## Enforcement Guidelines
+Community leaders will follow these Community Impact Guidelines in determining consequences...
+
 ## Attribution
 This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1.
