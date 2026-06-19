@@ -27,3 +27,5 @@ By contributing, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md)
 
 ## Questions?
 Open an issue or reach out to the maintainers.
+
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
